@@ -94,5 +94,3 @@ Durante essa imersão, pude:
 ### 🤝 Agradecimentos
 
 Agradeço à equipe da **Alura** pela didática e proposta da imersão. Foi uma experiência muito enriquecedora que ampliou minha visão sobre o uso de dados com Python.
-
-Se quiser, posso já te passar o **README.md pronto** com esses prints referenciados para você só fazer upload no seu projeto. Quer que eu gere o arquivo já formatado?
