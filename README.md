@@ -30,17 +30,25 @@ O resultado final é um **dashboard interativo** criado com a biblioteca **Strea
 
 A seguir estão alguns prints do resultado final:
 
-![Visão geral do dashboard](imagens/dashboard1.png)
+<img src="dashboard1.png" alt="Visão geral do dashboard" width="500px">
 *Visão geral da página inicial com filtros e resumo de dados*
 
-![Gráficos interativos](imagens/dashboard2.png)
+<br><br>
+
+<img src="dashboard2.png" alt="Visão geral do dashboard" width="500px">
 *Exemplo de gráfico interativo gerado com Plotly*
 
-![Detalhes da análise](imagens/dashboard3.png)
+<br><br>
+
+<img src="dashboard3.png" alt="Visão geral do dashboard" width="500px">
 *Seção com análise detalhada de métricas e comparações*
 
-![Visualização final](imagens/dashboard4.png)
+<br><br>
+
+<img src="dashboard4.png" alt="Visão geral do dashboard" width="500px">
 *Última seção do dashboard com insights finais*
+
+<br><br>
 
 ---
 
